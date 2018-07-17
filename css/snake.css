@@ -1,0 +1,33 @@
+.field {
+    background-color: white;
+    margin: auto;
+}
+
+.snake {
+    background-color: green !important;
+}
+
+.head {
+    background-color: aqua !important;
+}
+
+.food {
+    background-color: darkorange !important;
+}
+
+.snake_container {
+    outline: 2px solid black;
+    background-color: white !important;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.snake_wrapper {
+    position: relative;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
