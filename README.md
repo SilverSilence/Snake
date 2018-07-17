@@ -1,2 +1,2 @@
 # Snake
-Snake Game
+Overly complicated implementation of the Snake game.
